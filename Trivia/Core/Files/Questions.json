@@ -1,0 +1,96 @@
+[
+  {
+    "QuestionText": "Which is the largest ocean?",
+    "CorrectAnswer": "Pacific",
+    "IncorrectAnswers": [
+      "Atlantic",
+      "Indian",
+      "Misssissippi"
+    ]
+  },
+  {
+    "QuestionText": "Who starts first in chess?",
+    "CorrectAnswer": "White",
+    "IncorrectAnswers": [
+      "Black",
+      "Me"
+    ]
+  },
+  {
+    "QuestionText": "What year did Elvis Presley Die",
+    "CorrectAnswer": "1977",
+    "IncorrectAnswers": [
+      "1978",
+      "1843",
+      "He's still alive!"
+    ]
+  },
+  {
+    "QuestionText": "Who is the main actor in 'Cocktail'?",
+    "CorrectAnswer": "Tom Cruise",
+    "IncorrectAnswers": [
+      "Tom Hanks",
+      "Tom Cruize",
+      "Vincent Nguyen"
+    ]
+  },
+  {
+    "QuestionText": "Where does the American president live?",
+    "CorrectAnswer": "The White House",
+    "IncorrectAnswers": [
+      "Washington Monument",
+      "Mexico",
+      "Des Moinese, IA"
+    ]
+  },
+  {
+    "QuestionText": "Which river goes through London",
+    "CorrectAnswer": "Thames",
+    "IncorrectAnswers": [
+      "Pacific",
+      "Nile",
+      "Amazon"
+    ]
+  },
+  {
+    "QuestionText": "Who sang 'My Way'?",
+    "CorrectAnswer": "Frank Sinatra",
+    "IncorrectAnswers": [
+      "Tom Cruize",
+      "Rihanna",
+      "Andrew Damon"
+    ]
+  },
+  {
+    "QuestionText": "How many prongs are there on a fork",
+    "CorrectAnswer": "4",
+    "IncorrectAnswers": [
+      "2",
+      "3",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "o"
+    ]
+  },
+  {
+    "QuestionText": "What is the only mammal that can't jump",
+    "CorrectAnswer": "Elephant",
+    "IncorrectAnswers": [
+      "Human",
+      "Rat",
+      "Telephone"
+    ]
+  },
+  {
+    "QuestionText": "What company are you interning at?",
+    "CorrectAnswer": "Buildertrend",
+    "IncorrectAnswers": [
+      "Shell",
+      "Amazon",
+      "Tesla"
+    ]
+  }
+]

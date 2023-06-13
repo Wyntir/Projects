@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vjg7jcoGwVQc5RPcH4E15JxUMt8Pc8cUEKolkImmQkb4IPLMiHKTuhiCYqoe1QjBpzYJkxeCbu4cfIA8OSCxEg==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\Trivia\\dev-interns-donet-continued2023\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johan.ryu\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\johan.ryu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\johan.ryu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\johan.ryu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

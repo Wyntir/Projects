@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4re1PVkwSKYx+smgLUUmMlpaIFaKFvYnyfYxF+1dtpnSL+9gfzH3wMr7pW32rT4ajin7rUW9ai4wTork5e07cQ==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\Trivia\\dev-interns-donet-continued2023\\TriviaGame\\TriviaGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johan.ryu\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\johan.ryu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
