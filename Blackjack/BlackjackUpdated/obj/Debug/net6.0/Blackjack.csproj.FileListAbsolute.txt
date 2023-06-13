@@ -1,0 +1,15 @@
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\obj\Debug\net6.0\Blackjack.csproj.AssemblyReference.cache
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\obj\Debug\net6.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\obj\Debug\net6.0\Blackjack.AssemblyInfoInputs.cache
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\obj\Debug\net6.0\Blackjack.AssemblyInfo.cs
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\obj\Debug\net6.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\bin\Debug\net6.0\Blackjack.exe
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\bin\Debug\net6.0\Blackjack.deps.json
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\bin\Debug\net6.0\Blackjack.runtimeconfig.json
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\bin\Debug\net6.0\Blackjack.dll
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\bin\Debug\net6.0\Blackjack.pdb
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\obj\Debug\net6.0\Blackjack.dll
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\obj\Debug\net6.0\refint\Blackjack.dll
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\obj\Debug\net6.0\Blackjack.pdb
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\obj\Debug\net6.0\Blackjack.genruntimeconfig.cache
+C:\repos\Blackjack\dev-interns-intro-to-dotnet\Blackjack\BlackjackUpdated\obj\Debug\net6.0\ref\Blackjack.dll
